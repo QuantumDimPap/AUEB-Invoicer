@@ -65,5 +65,5 @@ Then head to the browser and type: `localhost:6006` and you should be able to se
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/tensorboard.PNG)
 
-The whole process described above, automated with BluePrism. 
+The whole process described above, automated with BluePrism. ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/blueprism-logo.png)
 
