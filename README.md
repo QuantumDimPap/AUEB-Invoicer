@@ -57,7 +57,9 @@ Both of them are already trained and we have provided the files where they are s
 
 If you then want to run Tensorboard to see the graphs, that provide the accuracy and the structure of each model head in the terminal and type (provided that you are located into the folder AUEB Invoicer):
 
-`python path_to_tensorboard\main.py --logdir= path_to_AUEB_Invoicer\logs`
+`python path_to_tensorboard\main.py --logdir= path_to_AUEB_Invoicer\logs` for the language prediction model
+
+`python path_to_tensorboard\main.py --logdir= path_to_AUEB_Invoicer\log` for the image classification model
 
 
 
