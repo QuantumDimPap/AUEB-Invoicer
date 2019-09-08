@@ -61,5 +61,8 @@ If you then want to run Tensorboard to see the graphs, that provide the accuracy
 
 `python path_to_tensorboard\main.py --logdir= path_to_AUEB_Invoicer\log` for the image classification model
 
+Then head to the browser and type: `localhost:6006` and you should be able to see something like this:
+
+![alt text]()
 
 
