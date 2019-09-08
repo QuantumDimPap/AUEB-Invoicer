@@ -6,3 +6,7 @@ AUEB Invoicer developed by:
 * Aggeliki Kyrgiou (Operatations and Automation Engineer)
 * Antwnis Kwnstantinidis (Business Analyst)
 * Dimitris Papadoulis (Data Scientist)
+
+# Installation
+
+In order for the 
