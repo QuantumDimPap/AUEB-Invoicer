@@ -4,7 +4,7 @@ AUEB Invoicer is an experimental application that can be used to process invoice
 AUEB Invoicer developed by:
 
 * Aggeliki Kyrgiou (Operatations and Automation Engineer)
-* Antwnis Kwnstantinidis (Business Analyst)
+* Antonis Kwnstantinidis (Business Analyst)
 * Dimitris Papadoulis (Data Scientist)
 
 # Installation
