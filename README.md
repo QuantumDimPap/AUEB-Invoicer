@@ -35,3 +35,5 @@ After successfully installing the above, we can open a terminal and type:
 
 and then type `python app.py`. After that, you should be able to see something like this:
 
+![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/terminal_image.PNG)
+
