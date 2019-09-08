@@ -1,5 +1,5 @@
 # AUEB-Invoicer
-AUEB Invoicer is an experimental application that can be used to process invoices. It was developed in the context of the course Big Data Content Analytics over the spring semester of 2019.
+AUEB Invoicer is an experimental application that can be used to process invoices and also have a monitoring of the whole process. It was developed in the context of the course Big Data Content Analytics over the spring semester of 2019.
 
 AUEB Invoicer developed by:
 
@@ -65,4 +65,5 @@ Then head to the browser and type: `localhost:6006` and you should be able to se
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/tensorboard.PNG)
 
+The whole process described above, automated with BluePrism. 
 
