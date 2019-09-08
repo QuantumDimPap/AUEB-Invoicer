@@ -40,5 +40,7 @@ and then type `python app.py`. After that, you should be able to see something l
 After that you should copy the http adress that is given and paste it in any browser you want. (we tested Chrome and Firefox)
 After that you should be able to see something like this:
 
+![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/AUEB%20Invoicer_home.PNG)
+
 
 
