@@ -9,4 +9,22 @@ AUEB Invoicer developed by:
 
 # Installation
 
-In order for the 
+In order to run the application the following libraries should be installed. Keep in mind that we use Python 3.7.3. You can either choose to download the JetBrain's Pycharm and install all the libraries from inside Pycharm, or pip install them by opening your terminal or command line.
+
+Let's now see, which libraries should be installed, in order the application to work:
+
+* Pandas
+* numpy
+* tflearn
+* keras
+* tensorfolw
+* email-to
+* flask
+* wand (Magick Wand) and PIL
+* CV2 for image processing
+* SMTPLib (it is already a basic package in python 3)
+* unidecode (in order to convert words to the same ASCII format)
+* Selenium (for web scrapping)
+* Scikit learn
+* pytesseract (Google's API recognize characters in an image)
+* PyPDF for pdf manipulation
