@@ -42,5 +42,22 @@ After that you should be able to see something like this:
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/AUEB%20Invoicer_home.PNG)
 
+After that you can upload an invoice and see the results.
+
+Please keep in mind, due to the fact that the invoices we have gathered are confidential, we kept only two testing invoices in case you want to try the model. You should remember to adjust the file paths accordingly into the scripts provided. 
+
+Also in the script `email_functions.py`, you should put your own credentials.
+
+Finally, the models that we developed using neural networks, were two:
+
+* Convolutional neural networks for image classification
+* Faced forward neural networks for language recognition
+
+Both of them are already trained and we have provided the files where they are saved.
+
+If you then want to run Tensorboard to see the graphs, that provide the accuracy and the structure of each model head in the terminal and type (provided that you are located into the folder AUEB Invoicer):
+
+`python path_to_tensorboard\main.py --logdir= path_to_AUEB_Invoicer\logs`
+
 
 
