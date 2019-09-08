@@ -44,7 +44,7 @@ def handleFileUpload():
             photo.save(os.path.join('path_to_AUEB_Invoicer/Uploads', photo.filename))
             
             # predict in what category of invoices the incoming invoice belongs
-            name = os.listdir('C:/Users/dpapadoulis/Desktop/AUEB_Invoicer/Uploads')
+            name = os.listdir('path_to_AUEB_Invoicer/Uploads')
             label = classification_model.prediction(name[0])
 
             # checking
