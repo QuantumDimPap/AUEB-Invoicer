@@ -75,4 +75,5 @@ The whole process described above, automated with BluePrism.
 If you encounter any problems running the application, do not hesitate to contact us:
 
 email: papadoulis.dimitrios@gmail.com
+
 mobile: +30 6971808435
