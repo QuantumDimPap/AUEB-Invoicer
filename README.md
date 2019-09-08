@@ -44,7 +44,9 @@ After that you should be able to see something like this:
 
 After that you can upload an invoice and see the results.
 
-Please keep in mind, due to the fact that the invoices we have gathered are confidential, we kept only two testing invoices in case you want to try the model. You should remember to adjust the file paths accordingly into the scripts provided. 
+Please keep in mind, due to the fact that the invoices we have gathered are confidential, we kept only two testing invoices in case you want to try the model. You should remember to adjust the file paths accordingly into the scripts provided. Unzip, what has to be unzipped.
+
+Keep the Uploads folder empty.
 
 Also in the script `email_functions.py`, you should put your own credentials.
 
@@ -69,3 +71,8 @@ The whole process described above, automated with BluePrism.
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/blueprism-logo.png)
 
+
+If you encounter any problems running the application, do not hesitate to contact us:
+
+email: papadoulis.dimitrios@gmail.com
+mobile: +30 6971808435
