@@ -28,3 +28,10 @@ Let's now see, which libraries should be installed, in order the application to 
 * Scikit learn
 * pytesseract (Google's API recognize characters in an image)
 * PyPDF for pdf manipulation
+
+After successfully installing the above, we can open a terminal and type:
+
+`cd path_that_you_have_downoaded_the_repository/AUEB_Invoicer`
+
+and then type `python app.py`. After that, you should be able to see something like this:
+
