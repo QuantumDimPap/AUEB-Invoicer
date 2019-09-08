@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>AUEB INVOICER</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+ }
+
+/* Header/Logo Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #762124;
+  color: white;
+  font-size: 20px;
+}
+
+/* Page Content */
+.content {padding:20px;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AUEB INVOICER</h1>
+  <p>A tool to help you process invoices</p>
+</div>
+
+<html>
+  <h1>Invoice Process Results:</h1>
+  <p>Company Name: {{ company_name }}</p>
+  <p>VAT Number: {{ VAT_Number }} , VIES Valid: {{vies_valid}}</p>
+  <p>Invoiced Amount: {{ payment }} euros</p>
+  <p>Paid Until: {{ paid_until }}</p>
+  <p><button type="button"> Save data </button> </p>
+   <body style = "background: url(https://www.northantsaccounting.co.uk/wp-content/uploads/2019/01/Free-accounting-software.jpg); background-size: 100%;">
+   </body>
+</html>
