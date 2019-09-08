@@ -63,6 +63,6 @@ If you then want to run Tensorboard to see the graphs, that provide the accuracy
 
 Then head to the browser and type: `localhost:6006` and you should be able to see something like this:
 
-![alt text]()
+![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/tensorboard.PNG)
 
 
