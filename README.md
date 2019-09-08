@@ -29,11 +29,16 @@ Let's now see, which libraries should be installed, in order the application to 
 * pytesseract (Google's API recognize characters in an image)
 * PyPDF for pdf manipulation
 
-After successfully installing the above, we can open a terminal and type:
+After successfully installing the above via pip install or from Pycharm, we can open a terminal and type:
 
 `cd path_that_you_have_downoaded_the_repository/AUEB_Invoicer`
 
 and then type `python app.py`. After that, you should be able to see something like this:
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/terminal_image.PNG)
+
+After that you should copy the http adress that is given and paste it in any browser you want. (we tested Chrome and Firefox)
+After that you should be able to see something like this:
+
+
 
