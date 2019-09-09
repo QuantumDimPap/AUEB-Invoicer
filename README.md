@@ -42,6 +42,8 @@ After that you should be able to see something like this:
 
 ![alt text](https://github.com/QuantumDimPap/AUEB-Invoicer/blob/master/images/AUEB%20Invoicer_home.PNG)
 
+Also, someone can use `ngrok`, in order to expose the link to the web, so others can see the application.
+
 After that you can upload an invoice and see the results.
 
 Please keep in mind, due to the fact that the invoices we have gathered are confidential, we kept only two testing invoices in case you want to try the model. You should remember to adjust the file paths accordingly into the scripts provided. Unzip, what has to be unzipped.
